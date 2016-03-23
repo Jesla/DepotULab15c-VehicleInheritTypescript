@@ -1,3 +1,37 @@
+#addCar {
+    display: inline-block;
+    width: 175px;
+    height: 50px;
+    color: white;
+    background-color: steelblue;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    font-size: 15px;
+    margin-right: 20px;
+}
+
+#addCopCar {
+    display: inline-block;
+    width: 175px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    margin-bottom: 20px;
+    font-size: 15px;
+    margin-right: 20px;
+}
+
+#addMotorcycle {
+    display: inline-block;
+    width: 175px;
+    height: 50px;
+    color: white;
+    background-color: darkred;
+    margin-bottom: 20px;
+    font-size: 15px;
+    margin-right: 20px;
+}
+
 #addTank {
     display: inline-block;
     width: 175px;
